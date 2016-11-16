@@ -7,7 +7,7 @@ import argparse
 import imutils
 import cv2
 import os
-
+#git practice
 #1st feature is color histogram
 def color_histogram_vector(image, bins=(8, 8, 8)):
 	# We are generating a 3-D colour histogram using HSV color space developed using the given bins for RGB space
