@@ -1,3 +1,4 @@
+# training the CIFAR-10 dataset using the tensorflow library and the inbuilt functions already given in that 
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
