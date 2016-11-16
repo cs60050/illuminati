@@ -4,7 +4,7 @@ Team Members
 Shashwat Mishra (14EC30041)
 Anil Satish Chandra Kusumbiwal (14MF10030)
 Jayant Singh Jeena (14NA30013)
-Swapnil Kumar
+Swapnil Kumar(14EC10053)
 Ajit Sharma
 Rohit Sinha
 Boga Anil Kumar
